@@ -1,4 +1,5 @@
 # Matdisk
 
-kumpulan code dari pak maztarigan Setiap pertemuan
+kumpulan code semester 1
+
 
